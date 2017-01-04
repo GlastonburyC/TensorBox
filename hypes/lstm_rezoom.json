@@ -1,7 +1,7 @@
 
     "data": {
-        "train_idl": "./train80.json",
-        "test_idl": "./validation20.json",
+        "train_idl": "../bbox_json/train80.json",
+        "test_idl": "../bbox_json/validation20.json",
         "truncate_data": false
     },
     "logging": {
